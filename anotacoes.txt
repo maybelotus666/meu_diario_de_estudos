@@ -1,3 +1,0 @@
-""
-"anotacoes da aula 2 - comandos basicos do git "
-"exercicio 1: fazer um programa com repeti‡Æo "
