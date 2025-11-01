@@ -1,2 +1,3 @@
 "anota‡äes da aula 1 - intro ao git" 
 "anota‡äes da aula - github "
+"Este projeto ‚ um di rio para registrar o aprendizado em Git e GitHub." 
